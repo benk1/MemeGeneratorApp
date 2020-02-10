@@ -42,7 +42,7 @@ class App extends Component {
     const { data: characters } = await axios.get(
       'https://swapi.co/api/people/1/'
     );
-    //console.log(characters);
+
     this.setState({
       loading: false,
       characters

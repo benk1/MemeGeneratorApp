@@ -8,16 +8,23 @@ class MemeGenerator extends Component {
     allMemeImages: []
   };
 
-  componentDidMount() {
-    axios.get('https://api.imgflip.com/get_memes').then(res => {
+  async componentDidMount() {
+    /*axios.get('https://api.imgflip.com/get_memes').then(res => {
       const allMemeImages = res.data.data.memes;
       console.log(allMemeImages);
       this.setState({
         allMemeImages
       });
+    });*/
+    const {
+      data: {
+        data: { memes: allMemeImages }
+      }
+    } = await axios.get('https://api.imgflip.com/get_memes');
+    //console.log('my data', allMemeImages);
+    this.setState({
+      allMemeImages
     });
-
-    //console.log(promise.data.data.memes.length);
   }
 
   handleChange = e => {
