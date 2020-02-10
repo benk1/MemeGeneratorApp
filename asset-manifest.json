@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/meme-app/static/css/main.418f04ae.chunk.css",
-    "main.js": "/meme-app/static/js/main.5d9c17d7.chunk.js",
-    "main.js.map": "/meme-app/static/js/main.5d9c17d7.chunk.js.map",
-    "runtime-main.js": "/meme-app/static/js/runtime-main.0829aa9f.js",
-    "runtime-main.js.map": "/meme-app/static/js/runtime-main.0829aa9f.js.map",
-    "static/js/2.6fa09ccd.chunk.js": "/meme-app/static/js/2.6fa09ccd.chunk.js",
-    "static/js/2.6fa09ccd.chunk.js.map": "/meme-app/static/js/2.6fa09ccd.chunk.js.map",
-    "index.html": "/meme-app/index.html",
-    "precache-manifest.c145c425a2027b1d11ead616d79ef239.js": "/meme-app/precache-manifest.c145c425a2027b1d11ead616d79ef239.js",
-    "service-worker.js": "/meme-app/service-worker.js",
-    "static/css/main.418f04ae.chunk.css.map": "/meme-app/static/css/main.418f04ae.chunk.css.map",
-    "static/js/2.6fa09ccd.chunk.js.LICENSE": "/meme-app/static/js/2.6fa09ccd.chunk.js.LICENSE"
+    "main.css": "/MemeGeneratorApp/static/css/main.418f04ae.chunk.css",
+    "main.js": "/MemeGeneratorApp/static/js/main.5d9c17d7.chunk.js",
+    "main.js.map": "/MemeGeneratorApp/static/js/main.5d9c17d7.chunk.js.map",
+    "runtime-main.js": "/MemeGeneratorApp/static/js/runtime-main.8b97585f.js",
+    "runtime-main.js.map": "/MemeGeneratorApp/static/js/runtime-main.8b97585f.js.map",
+    "static/js/2.6fa09ccd.chunk.js": "/MemeGeneratorApp/static/js/2.6fa09ccd.chunk.js",
+    "static/js/2.6fa09ccd.chunk.js.map": "/MemeGeneratorApp/static/js/2.6fa09ccd.chunk.js.map",
+    "index.html": "/MemeGeneratorApp/index.html",
+    "precache-manifest.9900ebd528c37e697f614afe7d5dfab0.js": "/MemeGeneratorApp/precache-manifest.9900ebd528c37e697f614afe7d5dfab0.js",
+    "service-worker.js": "/MemeGeneratorApp/service-worker.js",
+    "static/css/main.418f04ae.chunk.css.map": "/MemeGeneratorApp/static/css/main.418f04ae.chunk.css.map",
+    "static/js/2.6fa09ccd.chunk.js.LICENSE": "/MemeGeneratorApp/static/js/2.6fa09ccd.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.0829aa9f.js",
+    "static/js/runtime-main.8b97585f.js",
     "static/js/2.6fa09ccd.chunk.js",
     "static/css/main.418f04ae.chunk.css",
     "static/js/main.5d9c17d7.chunk.js"
