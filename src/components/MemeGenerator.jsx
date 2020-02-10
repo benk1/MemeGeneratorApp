@@ -44,10 +44,6 @@ class MemeGenerator extends Component {
     this.setState({
       randomImageUrl
     });
-    this.setState({
-      topText: '',
-      bottomText: ''
-    });
   };
   render() {
     const { topText, bottomText, randomImageUrl, allMemeImages } = this.state;
