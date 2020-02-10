@@ -1,1 +1,1 @@
-[check out Meme App Genarator in Action](https://benk1.github.io/MemeGeneratorApp/)
+[Click Here to See  MemeApp Generator in Action](https://benk1.github.io/MemeGeneratorApp/)
